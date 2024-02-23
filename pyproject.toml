@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project.urls]
+homepage = "https://github.com/dumitrac/ppl_semanticscholar_datasets"
+repository = "https://github.com/dumitrac/ppl_semanticscholar_datasets"
+changelog = "https://github.com/dumitrac/ppl_semanticscholar_datasets/releases"
+
+[project]
+name = "ppl_semanticscholar_datasets"
+dynamic = ["version"]
+authors = [
+  { name="Constantin Dumitrascu" },
+]
+description = "Unofficial SDK for SemanticScholar Datasets API"
+readme = "README.md"
+requires-python = ">=3.10"
+keywords = ["SDK", "Semantic Scholar", "dataset"]
+classifiers = [
+    "Framework :: IPython",
+    "Intended Audience :: Developers",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3 :: Only",
+]
