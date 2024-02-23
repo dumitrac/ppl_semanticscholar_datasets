@@ -49,6 +49,12 @@ for shard_url in shard_urls:
 ```
 
 
+## How to install
+```
+pip install git+https://github.com/dumitrac/ppl_semanticscholar_datasets.git
+```
+
+
 ## Contact
 
 Email to admin@papelist.app .
