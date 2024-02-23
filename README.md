@@ -50,7 +50,12 @@ for shard_url in shard_urls:
 
 
 ## Contact
+
 Email to admin@papelist.app .
+
 Also check out our app that enables you to explore and discover a research field of study independently - https://papelist.app .
+
 See our Semantic Scholar gallery page at https://www.semanticscholar.org/api-gallery/papelist-app .
+
 Follow us on X / Twitter at https://twitter.com/papelist_app .
+
